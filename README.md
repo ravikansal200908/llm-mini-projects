@@ -1,2 +1,1 @@
-# llm-mini-projects
-llm-mini-projects
+# 🤖 LLM Mini Projects (OpenAI + Python)
