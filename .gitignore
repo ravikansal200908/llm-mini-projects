@@ -6,3 +6,8 @@ __pycache__/
 
 # Ignore virtual environment folders (commonly named 'env' or 'venv')
 venv/
+
+
+# Ignore environment-specific settings
+.env
+.venv
